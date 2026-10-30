@@ -197,3 +197,35 @@ information and incorporating it into the generation process.
             |
             ▼
    CONTEXT-AWARE RESPONSE
+
+```
+## 📖 About This Repository
+
+This repository serves as an academic research resource dedicated to exploring **Retrieval-Augmented Generation (RAG)**, an emerging paradigm in Artificial Intelligence that enhances Large Language Models (LLMs) through external knowledge retrieval.
+
+The repository contains a systematic literature review examining the evolution, architectures, retrieval mechanisms, applications, performance improvements, and emerging challenges associated with RAG models.
+
+### 🎯 Repository Highlights
+
+| Area | Description |
+|:---|:---|
+| 📚 Research Type | Systematic Literature Review |
+| 🤖 Research Domain | Artificial Intelligence |
+| 🧠 Core Technology | Retrieval-Augmented Generation |
+| 💬 Related Fields | NLP, LLMs, Generative AI |
+| 🔍 Research Focus | Architectures, Retrieval & Generation |
+| 🚀 Research Direction | Advanced RAG and Knowledge Integration |
+| 📄 Publication Format | Microsoft Word (.docx) |
+
+### 🔗 Explore the Research
+
+<p align="center">
+  <a href="https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models">
+    <img src="https://img.shields.io/badge/📂_Explore-GitHub_Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.researchgate.net/publication/410820655_A_Systematic_Literature_Review_of_Retrieval-Augmented_Generation-RAG_Models">
+    <img src="https://img.shields.io/badge/🔬_Explore-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate" />
+  </a>
+</p>
+
+---
