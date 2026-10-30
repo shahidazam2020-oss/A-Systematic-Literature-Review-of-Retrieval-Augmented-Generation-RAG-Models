@@ -353,7 +353,6 @@ available in this repository.
 
 For now, this is a suitable README section:
 
-```markdown
 # 📜 License
 
 This repository contains academic research material
@@ -374,5 +373,55 @@ provided for academic reference and knowledge sharing.
 > **Note:** No formal open-source license has been specified
 > for this repository. Please contact the author regarding
 > permissions for reuse or redistribution.
+
+---
+## 🤝 CONTRIBUTING
+
+Contributions, suggestions, academic discussions, and constructive
+feedback are welcome!
+
+This repository aims to encourage knowledge sharing and
+continuous improvement in the field of Retrieval-Augmented
+Generation and Generative AI.
+
+### 🌟 How to Contribute
+
+If you are interested in contributing:
+
+1. 🍴 Fork this repository.
+2. 📥 Clone your fork to your local machine.
+3. 🌿 Create a new branch for your contribution.
+4. ✏️ Make your proposed changes or improvements.
+5. 📤 Submit a Pull Request for review.
+
+### 💡 Areas Where Contributions Are Welcome
+
+| Contribution Area | Examples |
+|---|---|
+| 📚 Literature | Relevant research papers and publications |
+| 🏗️ Architectures | New RAG architectures and frameworks |
+| 🔎 Retrieval | Advanced retrieval and ranking techniques |
+| 🤖 Generative AI | LLM integration and optimization |
+| 🔬 Research | Research gaps and emerging methodologies |
+| 📝 Documentation | Corrections, suggestions, and improvements |
+
+### 📬 Submit Your Contribution
+
+<div align="center">
+
+<a href="https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models/issues">
+  <img src="https://img.shields.io/badge/REPORT-Open_an_Issue-orange?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models/pulls">
+  <img src="https://img.shields.io/badge/CONTRIBUTE-Submit_Pull_Request-success?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+> 🤝 Every constructive contribution helps strengthen
+> the research community and advance knowledge in RAG.
+
+Thank you for supporting academic research and innovation!
 
 ---
