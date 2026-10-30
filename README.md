@@ -1,0 +1,199 @@
+<div align="center">
+
+# 📚 A Systematic Literature Review of
+# Retrieval-Augmented Generation (RAG) Models
+
+### Exploring Architectures, Retrieval Strategies, Applications,
+### Emerging Challenges, and Future Research Directions
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Research-Artificial%20Intelligence-blue?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/Domain-Retrieval%20Augmented%20Generation-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Literature%20Review-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20LLMs-orange?style=for-the-badge" />
+</p>
+
+<br>
+
+<p>
+  <a href="https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models">
+    <img src="https://img.shields.io/badge/📂_GitHub-View_Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.researchgate.net/publication/410820655_A_Systematic_Literature_Review_of_Retrieval-Augmented_Generation-RAG_Models">
+    <img src="https://img.shields.io/badge/🔬_ResearchGate-Read_Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="#-research-overview">Overview</a> •
+  <a href="#-research-objectives">Objectives</a> •
+  <a href="#-key-research-areas">Research Areas</a> •
+  <a href="#-research-applications">Applications</a> •
+  <a href="#-access-the-paper">Read Paper</a>
+</p>
+
+<br>
+
+</div>
+
+---
+
+## 📖 Research Overview
+
+Retrieval-Augmented Generation (RAG) is an emerging approach
+in Artificial Intelligence that combines information retrieval
+with Large Language Models (LLMs) to generate more informed,
+contextually relevant, and knowledge-grounded responses.
+
+This research presents a systematic literature review of
+Retrieval-Augmented Generation models, examining their
+architectures, retrieval mechanisms, practical applications,
+performance improvements, limitations, and emerging research
+opportunities.
+
+The study explores how integrating external knowledge sources
+with generative AI systems can improve the reliability,
+relevance, and contextual accuracy of generated responses.
+
+> **Research Focus:** Understanding the evolution of RAG
+> architectures and identifying opportunities for more
+> efficient, reliable, and knowledge-aware AI systems.
+
+---
+
+## 🎯 Research Objectives
+
+The primary objectives of this research include:
+
+- Understanding the fundamental concepts and evolution
+  of Retrieval-Augmented Generation.
+- Exploring different RAG architectures and retrieval strategies.
+- Investigating the integration of external knowledge
+  with Large Language Models.
+- Reviewing practical applications of RAG across multiple domains.
+- Examining techniques for improving retrieval and generation
+  performance.
+- Identifying existing challenges, limitations, and research gaps.
+- Highlighting potential directions for future RAG research.
+
+---
+
+## 🔍 Key Research Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ RAG Architectures
+
+- Traditional RAG
+- Advanced RAG
+- Modular RAG
+- Emerging architectural approaches
+
+</td>
+<td width="50%">
+
+### 🔎 Retrieval Techniques
+
+- Dense Retrieval
+- Sparse Retrieval
+- Hybrid Retrieval
+- Knowledge-Based Retrieval
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Generative AI Integration
+
+- Large Language Models
+- Contextual Generation
+- Knowledge Grounding
+- Retrieval-Generation Integration
+
+</td>
+<td width="50%">
+
+### ⚡ Performance Improvement
+
+- Retrieval Optimization
+- Context Relevance
+- Response Quality
+- Generation Reliability
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚠️ Emerging Challenges
+
+- Hallucinations
+- Retrieval Accuracy
+- Knowledge Updating
+- Computational Complexity
+
+</td>
+<td width="50%">
+
+### 🚀 Future Research
+
+- Advanced RAG Frameworks
+- Efficient Retrieval Systems
+- Domain-Specific RAG
+- Reliable Knowledge Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Research Applications
+
+This review explores the application of RAG technologies
+across several important domains.
+
+| Research Domain | Potential Applications |
+|:---|:---|
+| 🏥 Healthcare | Medical knowledge retrieval and clinical information assistance |
+| 🎓 Education | Intelligent learning assistants and academic knowledge systems |
+| 💰 Finance | Financial information retrieval and knowledge-based assistance |
+| 🏢 Enterprise AI | Organizational knowledge management and document intelligence |
+
+---
+
+## 💡 Why Retrieval-Augmented Generation?
+
+Traditional Large Language Models primarily rely on knowledge
+acquired during training. This can create limitations when
+working with updated, specialized, or domain-specific information.
+
+RAG addresses this challenge by retrieving relevant external
+information and incorporating it into the generation process.
+
+### General RAG Workflow
+
+```text
+       USER QUERY
+            |
+            ▼
+    QUERY PROCESSING
+            |
+            ▼
+    KNOWLEDGE RETRIEVAL
+            |
+            ▼
+   RELEVANT CONTEXT
+            |
+            ▼
+    LARGE LANGUAGE MODEL
+            |
+            ▼
+   CONTEXT-AWARE RESPONSE
