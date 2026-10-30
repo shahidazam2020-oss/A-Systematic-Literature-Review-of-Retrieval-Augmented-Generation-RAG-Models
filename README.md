@@ -264,3 +264,43 @@ technical insights, and advanced RAG methodologies.
 > been implemented.
 
 ---
+# 👨‍💻 Connect With Me
+
+Thank you for visiting my research repository!
+
+I am Shahid Azam, a Computer Science researcher with an
+academic specialization in Artificial Intelligence.
+
+My research interests include Artificial Intelligence,
+Machine Learning, Natural Language Processing, Large Language
+Models (LLMs), and Retrieval-Augmented Generation (RAG).
+
+I welcome opportunities for academic collaboration,
+research discussions, knowledge sharing, and professional networking.
+
+### 🌐 Professional & Academic Profiles
+
+<div align="center">
+
+<a href="https://github.com/shahidazam2020-oss">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.researchgate.net/profile/Shahid-Azam-5">
+  <img src="https://img.shields.io/badge/ResearchGate-Explore_My_Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>
+
+</div>
+
+### 🔬 Research Interests
+
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Large Language Models` · `Retrieval-Augmented Generation` · `Knowledge Graphs`
+
+> 🤝 Open to research collaborations, academic discussions,
+> and opportunities in Artificial Intelligence.
+
+---
