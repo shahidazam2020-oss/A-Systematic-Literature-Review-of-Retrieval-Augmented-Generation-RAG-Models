@@ -347,7 +347,7 @@ available in this repository.
 
 ---
 
-## 5. 📜 License
+## 📜 License
 
 **Important:** Since this repository contains an academic manuscript, don't automatically claim an MIT or other open-source software license. Choose a license according to your publication rights and institutional or publisher requirements.
 
