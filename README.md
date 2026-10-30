@@ -346,3 +346,33 @@ available in this repository.
 | 🔬 Research Platform   | ResearchGate                                 |
 
 ---
+
+## 5. 📜 License
+
+**Important:** Since this repository contains an academic manuscript, don't automatically claim an MIT or other open-source software license. Choose a license according to your publication rights and institutional or publisher requirements.
+
+For now, this is a suitable README section:
+
+```markdown
+# 📜 License
+
+This repository contains academic research material
+prepared for scholarly and educational purposes.
+
+The research manuscript and associated materials are
+provided for academic reference and knowledge sharing.
+
+### ⚖️ Usage & Permissions
+
+- 📖 Reading and referencing the research for academic purposes
+  is welcome.
+- 📝 Proper attribution must be provided when citing this work.
+- 🚫 Republishing, redistributing, or modifying the manuscript
+  requires appropriate permission from the copyright holder(s),
+  where applicable.
+
+> **Note:** No formal open-source license has been specified
+> for this repository. Please contact the author regarding
+> permissions for reuse or redistribution.
+
+---
