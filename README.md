@@ -317,3 +317,7 @@ available in this repository.
 ├── 📄 Research Paper (.docx)
 │
 └── 📘 README.md
+
+---
+🔗 Repository Access
+<div align="center"> <a href="https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models"> <img src="https://img.shields.io/badge/OPEN-GitHub_Repository-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.researchgate.net/publication/410820655_A_Systematic_Literature_Review_of_Retrieval-Augmented_Generation-RAG_Models"> <img src="https://img.shields.io/badge/READ-ResearchGate_Publication-00CCBB?style=for-the-badge&logo=researchgate" /> </a> </div>
