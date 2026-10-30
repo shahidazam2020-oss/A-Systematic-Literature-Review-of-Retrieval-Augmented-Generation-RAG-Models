@@ -304,3 +304,16 @@ research discussions, knowledge sharing, and professional networking.
 > and opportunities in Artificial Intelligence.
 
 ---
+# 📂 Repository
+
+Explore the research materials and academic resources
+available in this repository.
+
+### 📁 Project Structure
+
+```text
+📦 A-Systematic-Literature-Review-of-RAG-Models
+│
+├── 📄 Research Paper (.docx)
+│
+└── 📘 README.md
