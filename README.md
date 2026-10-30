@@ -229,3 +229,38 @@ The repository contains a systematic literature review examining the evolution, 
 </p>
 
 ---
+# 🚀 Future Improvements
+
+Research in Retrieval-Augmented Generation continues to evolve.
+This repository may be expanded with additional research,
+technical insights, and advanced RAG methodologies.
+
+### 🗺️ Research Roadmap
+
+| Status | Planned Improvement |
+|:---:|---|
+| 🔄 | Explore advanced RAG architectures |
+| 🔄 | Investigate Graph-Based Retrieval-Augmented Generation |
+| 🔄 | Explore Knowledge Graph integration with RAG |
+| 🔄 | Analyze advanced retrieval and reranking techniques |
+| 🔄 | Investigate hallucination reduction strategies |
+| 🔄 | Explore domain-specific RAG applications |
+| 🔄 | Examine retrieval optimization and computational efficiency |
+| 🔄 | Incorporate emerging research publications |
+
+### 💡 Potential Research Extensions
+
+- **GraphRAG:** Investigating graph-based knowledge retrieval
+  and structured information representation.
+- **Advanced Retrieval:** Exploring semantic search,
+  hybrid retrieval, and contextual ranking.
+- **Knowledge Integration:** Improving the connection
+  between external knowledge sources and LLMs.
+- **Reliable Generation:** Investigating techniques
+  for improving factual accuracy and reducing hallucinations.
+
+> 💡 The roadmap represents potential future research directions
+> and does not indicate that these extensions have already
+> been implemented.
+
+---
