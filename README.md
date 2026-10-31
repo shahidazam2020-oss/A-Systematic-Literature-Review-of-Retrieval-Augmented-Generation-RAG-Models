@@ -65,7 +65,7 @@ relevance, and contextual accuracy of generated responses.
 
 ## 🎯 Research Objectives
 
-The primary objectives of this research include:
+**The primary objectives of this research include:**
 
 - Understanding the fundamental concepts and evolution
   of Retrieval-Augmented Generation.
