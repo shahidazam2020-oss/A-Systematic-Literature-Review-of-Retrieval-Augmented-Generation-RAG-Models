@@ -157,8 +157,8 @@ relevance, and contextual accuracy of generated responses.
 
 ## 🌍 Research Applications
 
-This review explores the application of RAG technologies
-across several important domains.
+**This review explores the application of RAG technologies
+across several important domains.**
 
 | Research Domain | Potential Applications |
 |:---|:---|
