@@ -264,7 +264,7 @@ technical insights, and advanced RAG methodologies.
 > been implemented.
 
 ---
-# 👨‍💻 Connect With Me
+# 👨‍💻 About The Author
 
 Thank you for visiting my research repository!
 
