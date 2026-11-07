@@ -347,12 +347,6 @@ available in this repository.
 
 ---
 
-## 📜 License
-
-**Important:** Since this repository contains an academic manuscript, don't automatically claim an MIT or other open-source software license. Choose a license according to your publication rights and institutional or publisher requirements.
-
-For now, this is a suitable README section:
-
 # 📜 License
 
 This repository contains academic research material
