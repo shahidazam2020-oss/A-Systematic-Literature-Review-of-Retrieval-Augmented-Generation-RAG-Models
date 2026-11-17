@@ -1,5 +1,16 @@
 <div align="center">
 
+  <a href="https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
+
+---
 # 📚 A Systematic Literature Review of
 # Retrieval-Augmented Generation (RAG) Models
 
